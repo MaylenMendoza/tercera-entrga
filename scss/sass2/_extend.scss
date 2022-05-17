@@ -1,0 +1,59 @@
+@import "../variables/variables";
+
+
+.titulo{
+    margin-top: $espacio;
+    text-align: $alinear-al-centro;
+    font-family: $tipo-de-letra;
+    color: $color2;
+    background-color: $color4;
+    font-size: $s2; 
+}
+
+.parrafo{
+    text-align: $alinear-al-centro;
+    margin-top: $espacio;
+    font-size: $size;
+}
+
+.formulario{
+    margin-top: $espacio;
+    border: $bordes2;
+    width: $ancho;
+}
+
+.columnas-filas{
+    margin-top: $espacio2;
+    border: $bordes3;
+    width: $ancho;
+}
+
+.producto{
+    margin-top: $espacio;
+    border: $bordes2;
+}
+
+.observacion{
+    text-align: $alinear-al-centro;
+    margin-top: $espacio2;
+    font-size: $size1;
+}
+
+.enviar{
+    margin-top: $espacio2;
+    border: $bordes3;
+    background: $color3;
+}
+
+.copy{
+    background-color: $fondo-de-color2;
+    margin-top: $espacio2;
+}
+
+.iconos{
+    color: $color7;
+    margin-top: $espacio2;
+}
+
+
+

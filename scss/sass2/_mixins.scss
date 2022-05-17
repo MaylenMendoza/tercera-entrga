@@ -1,0 +1,9 @@
+@import "../variables/variables";
+
+@mixin flexibilizar-centrar{
+    display: flex;
+    justify-content: $vistaMobile;
+    align-items: $vistaMobile;
+    flex-wrap:nowrap;
+    
+}
